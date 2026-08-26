@@ -1,0 +1,12 @@
+Analizează fotografia și descrie scena.
+
+Răspunde în română.
+
+1. Descrie pe scurt scena și elementul sau subiectul principal.
+2. Enumeră principalele obiecte, ființe, plante, clădiri sau alte elemente vizibile.
+3. Descrie mediul, locul aparent, lumina, vremea și condițiile vizibile.
+4. Menționează relațiile spațiale importante dintre elementele scenei.
+5. Dacă fotografia permite o interpretare plauzibilă a contextului, menționeaz-o separat și precizează că este o interpretare, nu un fapt cert.
+
+Separă ceea ce este vizibil direct de ceea ce este doar o presupunere.
+Nu inventa elemente care nu sunt vizibile în fotografie.

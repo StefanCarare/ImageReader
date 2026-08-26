@@ -1,0 +1,8 @@
+Analizează imaginea acestei plante și oferă o identificare botanică detaliată, structurată exact după următoarele puncte:
+
+1. Identificarea Speciei: Specifică numele comun (în română) și numele științific (în latină).
+2. Elemente de Clasificare Taxonomică: Prezintă ierarhia completă (Regn, Încrengătură, Clasă, Ordin, Familie, Gen, Specie).
+3. Elemente Folosite în Identificare: Detaliază caracteristicile vizuale din imagine care confirmă această identitate (forma frunzelor, dispunerea lor, tipul de floare/inflorescență, tulpina, culoarea etc.).
+4. Specii Similare (Confuzii Posibile): Listează 2-3 specii cu care poate fi confundată și explică pe scurt elementele cheie prin care se diferențiază de acestea.
+
+Răspunde clar, folosind terminologie botanică corectă.

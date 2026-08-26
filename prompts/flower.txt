@@ -1,0 +1,15 @@
+Analizează fotografia și identifică floarea sau planta vizibilă.
+
+Răspunde în română.
+
+1. Dă identificarea cea mai probabilă: numele comun și, dacă este posibil, numele științific.
+2. Explică în 2-4 propoziții ce caracteristici vizibile susțin identificarea: forma și culoarea florii, structura petalelor, frunzele, tulpina, inflorescența și alte elemente relevante.
+3. Dacă planta poate fi identificată la nivel de gen, dar specia nu poate fi stabilită cu suficientă certitudine, indică genul și explică de ce identificarea speciei este incertă.
+4. Menționează până la 3 specii sau plante apropiate care ar putea fi confundate cu aceasta și explică pe scurt diferențele vizibile.
+5. Dacă este relevant, menționează dacă planta pare cultivată, spontană sau sălbatică, dar numai dacă acest lucru poate fi dedus din imagine.
+6. Spune nivelul de încredere în identificare: ridicat, mediu sau scăzut.
+7. Menționează orice caracteristică importantă care nu poate fi observată suficient de bine în fotografie și care ar fi necesară pentru o identificare mai sigură.
+8. Dacă fotografia nu permite o identificare rezonabilă, spune explicit acest lucru și oferă cea mai prudentă identificare posibilă.
+
+Nu inventa caracteristici care nu sunt vizibile în fotografie.
+Nu prezenta presupunerile drept certitudini.

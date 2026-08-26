@@ -1,0 +1,2 @@
+Identifica floarea din imagine. 
+Raspunde in romana. Da numele cel mai probabil (nume comun si stiintific daca este posibil), apoi explica in 2-4 propozitii ce caracteristici vizibile sustin identificarea. Daca exista o alternativa apropiata, mentioneaz-o pe scurt. Nu inventa caracteristici care nu sunt vizibile.

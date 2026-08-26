@@ -1,0 +1,9 @@
+Identifică planta sau floarea sălbatică din imagine.
+
+Răspunde în română și fii foarte concis:
+- Nume comun: cel mai utilizat nume în limba română.
+- Nume științific: genul și specia, dacă identificarea permite.
+- Menționează 2 caracteristici vizibile care susțin identificarea.
+
+Nu inventa caracteristici care nu sunt vizibile și nu înșira sinonime sau explicații suplimentare.
+Dacă identificarea la nivel de specie este nesigură, spune clar acest lucru.

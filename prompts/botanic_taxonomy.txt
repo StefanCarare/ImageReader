@@ -1,0 +1,27 @@
+Identifică planta sau floarea sălbatică din imagine și explică poziția ei în clasificarea botanică.
+
+Răspunde în română și păstrează exact cele 5 secțiuni de mai jos.
+
+1. **Identificare**
+Precizează, pe rânduri separate, numele comun cel mai utilizat în România, numele științific și nivelul de încredere în identificare. Fii concis.
+
+2. **Ce se vede**
+Descrie în maximum 4 bullets numai caracteristicile morfologice vizibile în fotografie care susțin identificarea. Nu inventa caractere care nu pot fi observate.
+
+3. **Arborele botanic**
+Prezintă ierarhia într-un singur lanț (în forma: e.g. Regn *Plantae*):
+Regn → Încrengătură → Clasă → Ordin → Familie → Gen → Specie.
+Apoi explică de ce este interesantă poziția plantei în acest arbore: ce ne spune Familia despre grupul din care face parte și ce ne spune Genul despre rudele sale apropiate și caracterele comune. Poți oferi câteva informații relevante despre aceste grupuri, fără a fi excesiv de tehnic.
+
+4. **Despre plantă**
+Oferă o imagine de ansamblu asupra vieții plantei în sălbăticie. Include informațiile cele mai interesante și utile pentru cineva care întâlnește planta pe teren, precum habitatul, perioada de înflorire, rolul ecologic, relația cu alte organisme sau utilizările cunoscute. Păstrează această secțiune informativă, dar evită repetițiile și detaliile enciclopedice fără legătură cu observarea plantei.
+
+5. **Specie apropiată**
+Menționează o singură specie cu care planta poate fi confundată și un singur criteriu vizual simplu prin care cele două pot fi diferențiate pe teren.
+
+Reguli:
+* Nu adăuga alte secțiuni.
+* Nu repeta aceeași informație în mai multe secțiuni.
+* Nu inventa caractere care nu sunt vizibile.
+* Dacă identificarea la nivel de specie nu este sigură, spune clar acest lucru și nu forța identificarea.
+* Formatează taxonii cu italice (e.g. Regn *Plantae*)

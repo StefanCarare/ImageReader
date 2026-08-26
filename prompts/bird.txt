@@ -1,0 +1,11 @@
+Analizează fotografia și identifică pasărea.
+
+Răspunde în română.
+
+1. Dă identificarea cea mai probabilă: numele comun și, dacă este posibil, numele științific.
+2. Explică în 2-4 propoziții ce caracteristici vizibile susțin identificarea: formă, penaj, culori, desen, cioc, picioare, proporții sau alte elemente relevante.
+3. Dacă există una sau două specii apropiate care ar putea fi confundate cu aceasta, menționează-le și explică pe scurt diferența vizibilă.
+4. Spune nivelul de încredere: ridicat, mediu sau scăzut.
+5. Dacă fotografia nu permite o identificare sigură, spune explicit acest lucru și indică ce informații suplimentare ar fi necesare.
+
+Nu inventa caracteristici care nu sunt vizibile în fotografie.

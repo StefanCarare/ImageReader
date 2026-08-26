@@ -1,0 +1,5 @@
+OLLAMA_URL=http://localhost:11434
+MODEL=muse-glimmer
+NUM_CTX=8192
+NUM_PREDICT=3000
+THINKING=false
